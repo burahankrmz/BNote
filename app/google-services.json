@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671853421805",
+    "project_id": "bnote-96906",
+    "storage_bucket": "bnote-96906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671853421805:android:4f0ea98f244f06adae58e4",
+        "android_client_info": {
+          "package_name": "com.ourorobos.bnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671853421805-grmh1euc8q7ns9jhr2qr0sp1ccijkm46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5qUkzfzhMrnV6RuI0QbwaHn-7CAfA7M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671853421805-grmh1euc8q7ns9jhr2qr0sp1ccijkm46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

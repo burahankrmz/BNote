@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BNote</string>
+    <string name="newnote">Yeni Not</string>
+    <string name="note">Buraya notunuzu yazınız.</string>
+    <string name="ekle">EKLE</string>
+</resources>
